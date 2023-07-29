@@ -1,0 +1,9 @@
+{
+  "name": "customer-info-center",
+  "version": "1.0.0",
+  "dependencies": {
+    "vue": "^3.2.36",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.0.13"
+  }
+}
